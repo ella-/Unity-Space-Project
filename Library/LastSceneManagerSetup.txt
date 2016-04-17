@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/EA Scenes/SceneTest1.unity
+- path: Assets/EA Scenes/EA Terrain Test.unity
   isLoaded: 1
   isActive: 1

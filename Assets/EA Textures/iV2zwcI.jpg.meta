@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: d2806913a422f4a44ad541e78bd20881
+labels:
+- Space
 timeCreated: 1459522019
 licenseType: Free
 TextureImporter:

@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 94c50cc2abbe14fb1902da71bde969ec
+labels:
+- Ground
 timeCreated: 1459395010
 licenseType: Free
 TextureImporter:

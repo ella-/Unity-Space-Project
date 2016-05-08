@@ -2,12 +2,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyManager.cs">
     <Files>
-      <File FileName="Assets/EA Shaders/Hatching 2.shader" Line="111" Column="69" />
-      <File FileName="Assets/EA Shaders/EA Hatch Shader Attempt.shader" Line="95" Column="1" />
-      <File FileName="Assets/Scripts/EnemyManager.cs" Line="37" Column="19" />
-      <File FileName="Assets/Scripts/Enemy.cs" Line="9" Column="2" />
-      <File FileName="Assets/Scripts/Player.cs" Line="25" Column="1" />
-      <File FileName="Assets/Scripts/PlayerManager.cs" Line="21" Column="11" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/EA Shaders/Hatching 2.shader" Line="1" Column="1" />
+      <File FileName="Assets/EA Shaders/EA Hatch Shader Attempt.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyManager.cs" Line="8" Column="32" />
+      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

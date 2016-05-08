@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 74b449d8e93ed4bd88459ac03862a539
+labels:
+- Hatch
 timeCreated: 1461272688
 licenseType: Free
 TextureImporter:

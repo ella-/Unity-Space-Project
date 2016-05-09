@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 473391910bb344522860c6c57c629df0
+labels:
+- Vegetation
 timeCreated: 1459532497
 licenseType: Free
 TextureImporter:

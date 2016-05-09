@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 28527789fc8ee496d8032022a80f052a
+labels:
+- Sky
 timeCreated: 1461189151
 licenseType: Free
 TextureImporter:

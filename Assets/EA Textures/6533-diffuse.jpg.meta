@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: d3889eaf2da234d41b76f08ea064c764
+labels:
+- GeometricColor
 timeCreated: 1459632512
 licenseType: Free
 TextureImporter:
